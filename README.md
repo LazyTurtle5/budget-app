@@ -1,4 +1,4 @@
 Budget App
 
 Live Demo
-budget.mattshaw.io
+http://budget.mattshaw.io/
